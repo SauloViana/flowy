@@ -23,9 +23,11 @@ O objetivo do Flowy é otimizar o atendimento em estabelecimentos gastronômicos
 
 flowy/
 
-  ├── backend/ # API Django
-  ├── frontend/ # Aplicação React
-  └── docs/ # Documentação do projeto
+    ├── backend/ # API Django
+    
+    ├── frontend/ # Aplicação React
+  
+    └── docs/ # Documentação do projeto
 
 ---
 
