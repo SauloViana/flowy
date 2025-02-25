@@ -6,7 +6,7 @@ Flowy é um sistema de atendimento para food trucks e restaurantes, focado em fa
 
 ## 📌 Sobre o Projeto  
 
-O objetivo do Flowy é otimizar o atendimento em estabelecimentos gastronômicos, permitindo que garçons gerenciem pedidos e mesas de forma prática e eficiente, aprimorando a experiência entre cliente e garçom.
+O objetivo do Flowy é otimizar o atendimento em estabelecimentos gastronômicos, permitindo que garçons gerenciem pedidos e mesas de forma prática e eficiente, aprimorando a experiência entre cliente e estabelecimento.
 
 ---
 
