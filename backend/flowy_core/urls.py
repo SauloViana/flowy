@@ -1,5 +1,5 @@
 """
-URL configuration for flowy_api project.
+URL configuration for flowy_core project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/5.1/topics/http/urls/
@@ -16,7 +16,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from flowy_api.views import ping
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('ping/', ping),
 ]
